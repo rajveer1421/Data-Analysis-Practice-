@@ -238,3 +238,11 @@ Possible extensions:
 
 ## 👤 Author
 Project created as practical training for real industry-style analytical thinking and decision support.
+
+## ⭐ Support the Work
+If you found this analysis useful, insightful, or reusable in your own learning, consider supporting it on Kaggle:
+
+👉 https://www.kaggle.com/code/rajveergup1455/complete-eda
+
+Your feedback and upvotes help improve future projects and motivate deeper research.
+
